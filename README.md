@@ -1,2 +1,2 @@
 # c_programs
-practice c programs!
+C Practice Programs by Suresh Pathak (Prithvi Narayan Campus).
